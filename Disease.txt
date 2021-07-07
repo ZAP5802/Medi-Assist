@@ -1,0 +1,299 @@
+fever, cough, shortnessofbreath, lossoftaste, sorethroat, cold
+Covid 19
+fever, cough, shortnessofbreath, lossofsmell, sorethroat, headache
+Covid 19
+fever, cough, lossofsmell, lossoftaste, sorethroat, headache
+Covid 19
+
+highfever, headaches, jointandmusclepain, vomiting, skinrash
+Dengue
+highfever, headaches, muscleandjointpain, vomiting, skinrash
+Dengue
+
+chestpain, cough, weightloss, tired, lossofappetite
+Lung Cancer
+chestpain, cough, lossofweight, tired, appetiteloss
+Lung Cancer
+
+upperabdominalpain, vomiting, generalweakness, weightloss, appetiteloss
+Liver Cancer
+upperabdominalpain, vomiting, weakness, lossofweight, lossofappetite
+Liver Cancer
+
+lumpinbreast, lumpinarmpit, thickeningofpartofbreast, rednessinnipplearea, nippledischargeotherthanmilk
+Breast Cancer
+lumpinunderarm, lumpinarmpit, swellingofpartofbreast, paininnipplearea, nippledischargesblood
+Breast Cancer
+lumpinbreast, lumpinarmpit, swellingofpartofbreast, paininnipplearea, pullinginofnipple
+Breast Cancer
+
+abdominalcramps, diarrhea, vomiting, lossofappetite
+Food Poisoning
+abdominalcramps, weakness, vomiting, nausea
+Food Poisoning
+abdominalcramps, weakness, vomiting, nausea 
+Food Poisoning
+
+headaches, visionchange, weakness, numbness, balanceproblems
+Brain Cancer
+
+chills, rash, nightsweats, muscleaches
+Hiv
+chills, rash, sorethroat, muscleaches
+Hiv
+fatigue, rash, nightsweats, muscleaches
+Hiv
+sorethroat, rash, nightsweats, muscleaches
+Hiv
+
+rapidweightloss, extremetiredness, soresofmouth, pneumonia
+Aids
+rapidlossofweight, tiredness, diarrhea, soresofanus
+Aids
+rapidweightloss, extremetiredness, soresofgenitals, swellingoflymphglands
+Aids
+
+kidneypain, bloodinurine, painfulurination, urinorytractinfections
+Kidney Stone
+paininkidney, urineblood, painfulurination, vomiting, urinorytractinfections
+Kidney Stone
+kidneypain, bloodinurine, painfulurination, nausea, urinorytractinfections
+Kidney Stone
+
+urinatealot, thirsty, hungry, tired, weightloss
+Diabetes
+urinatealot, verythirsty, veryhungry, verytired, weightloss
+Diabetes
+urinatealot, verythirsty, veryhungry, verytired, lossofweight
+Diabetes
+urinatealot, thirsty, hungry, tired, lossofweight
+Diabetes
+urinatealot, thirsty, hungry, tired, dryskin
+Diabetes
+
+whiteheads, blackheads, scarringofskin, rednessaroundskineruptions, crustingofskinbumps
+Acne
+
+pain, stiffness, swelling, redness, decreasedrangeofmotion
+Arthritis
+
+skinblisterseasily, blistersinsidethemouth, blistersonhand, scarredskin, thickenedskin
+Epidermolysis Bullosa
+skinblisterseasily, blistersinsidethemouth, blistersonsolsoffeet, scarredskin, thickenednails
+Epidermolysis Bullosa
+
+bonepain, swelling, bonedeformity, bonefractures, curvatureoflegbones
+Fibrous Dysplasia
+bonepain, swelling, deformityofbones, bonefractures, curvatureoflegbones
+Fibrous Dysplasia
+
+facialdrooping, troublemovingeyes, droopingeyelids, troubleswallowing, paininarms
+Acute Flaccid Myelitis(AFM)
+facialdrooping, troublemovingeyes, droopingeyelids, troubleswallowing, paininlegs
+Acute Flaccid Myelitis(AFM)
+facialdrooping, troublemovingeyes, droopingeyelids, troubleswallowing, paininback
+Acute Flaccid Myelitis(AFM)
+facialdrooping, troublemovingeyes, droopingeyelids, troubleswallowing, backpain
+Acute Flaccid Myelitis(AFM)
+facialdrooping, troublemovingeyes, droopingeyelids, troubleswallowing, paininneck
+Acute Flaccid Myelitis(AFM)
+facialdrooping, troublemovingeyes, droopingeyelids, troubleswallowing, neckpain
+Acute Flaccid Myelitis(AFM)
+facialdrooping,paininarms, paininlegs, paininback, paininneck
+Acute Flaccid Myelitis(AFM)
+facialdrooping,paininarms, legpain, backpain, neckpain
+Acute Flaccid Myelitis(AFM)
+
+fever, sorethroat, acutebronchitis, pneumonia
+Adenovirus Infection
+fever, sorethroat, pinkeye, pneumonia
+Adenovirus Infection
+fever, sorethroat, pinkeye, infectionoflungs
+Adenovirus Infection
+
+generalfatigue, irregularheartbeat, thumpinginchest, dizziness, weakness
+Atrial Fibrillation(AFib)
+generalfatigue, irregularheartbeat, thumpinginchest, shortnessofbreath, faintness
+Atrial Fibrillation(AFib)
+generalfatigue, irregularheartbeat, thumpinginchest, confusion, weakness
+Atrial Fibrillation(AFib)
+generalfatigue, irregularheartbeat, thumpinginchest, dizziness, fatiguewhenexercising
+Atrial Fibrillation(AFib)
+
+memoryloss, challengesinplanning, confusionwithtime, troubleunderstandingvisualimages, newproblemswithwords
+Alzheimers
+memoryloss, challengesinsolvingproblems, confusionwithplace, troubleunderstandingspatialrelationships, newproblemswithwords
+Alzheimers
+
+fever, muscleaches, nausea, vomiting
+Anaplosmosis
+fever, chills, muscleaches, vomiting, diarrhea
+Anaplosmosis
+fever, headaches, muscleaches, lossofappetite, nausea
+Anaplosmosis
+fever, headaches, muscleaches, appetiteloss, vomiting
+Anaplosmosis
+
+shortnessofbreath, chestpain, wheezingwhenexhaling, troublesleeping, coughing
+Asthma
+
+difficultycommunication, difficultyinsocialsituations, troublewithtransitions, attachmenttounusualinterests, difficultyunderstandingemotions
+Autism
+
+changeinbowelhabits, rectalbleeding, abdomincaldiscomfort, weakness, weightloss
+Colorectal Cancer
+changeinbowelhabits, rectalbleeding, abdomincaldiscomfort, weakness, lossofweight
+Colorectal Cancer
+constipation, rectalbleeding, cramps, weakness, weightloss
+Colorectal Cancer
+constipation, rectalbleeding, cramps, weakness, lossofweight
+Colorectal Cancer
+constipation, rectalbleeding, cramps, gas, boweldoesntemptycompletely
+Colorectal Cancer
+
+pelvicpain, burningofvulva, changesinvulvacolor, bloating, vaginalbleeding
+Gynecologic Cancer
+pelvicpressure, itchingvulva, changesinvulvaskin, bloating, vaginalbleeding
+Gynecologic Cancer
+pelvicpressure, itchingvulva, changesinvulvaskin, changesinbathroomhabits, vaginalbleeding
+Gynecologic Cancer
+
+painfulurination, frequenturination, difficultywithurination, erectiledysfunction, bloodinurine
+Prostate Cancer
+painfulurination, frequenturination, difficultywithurination, erectiledysfunction, bloodinsemen
+Prostate Cancer
+
+coughing, sneezing, nasaldischarge, runnyeyes, fever
+Canine Flu
+
+coldsweat, dizziness, lightheadedness, nausea, sleepdisturbances
+Cad
+coldsweat, neckpain, lightheadedness, nausea, shortnessofbreath
+Cad
+
+confusion, numbness, blurryvision, headache, troublewalking
+Stroke
+confusion, paralysis, visionblur, headache, walkingtrouble
+Stroke
+
+respiratoryinfections, bluenessoflips, fatigue, wheezing
+COPD
+respiratoryinfections, mucusproduction, fatigue, wheezing
+COPD
+
+loosestools, abdominalcramps, abdominalpain, fever, bloodinstool
+Diarrhea
+waterystools, abdominalcramps, abdominalpain, fever, mucusinstool
+Diarrhea
+loosestools, abdominalcramps, abdominalpain, bloating, nausea
+Diarrhea
+
+runnynose, sorethroat, inflamedeyes
+Measles
+
+coughing, bloodincough, chestpain, weightloss, chills
+Tuberculosis
+coughing, mucusincough, chestpain, lossofweight, chills
+Tuberculosis
+coughing, breathingpain, chestpain, weightloss, fatigue
+Tuberculosis
+coughing, bloodincough, painwhilebreathing, weightloss, nightsweats
+Tuberculosis
+
+sorethroat, voicechange, painwhileswallowing, lumpinneck, earpain
+Laryngeal Cancer
+sorethroat, voicechange, painwhileswallowing, lumpinthroat, earpain
+Laryngeal Cancer
+
+stomachpain, diarrhea, gas, constipation
+Lactose intolerance
+stomachpain, diarrhea, gas, constipation, problemurinating
+Lactose intolerance
+stomachpain, diarrhea, gas, constipation, mouthulcers
+Lactose intolerance
+stomachpain, diarrhea, gas, constipation, mouthpain
+Lactose intolerance
+stomachpain, diarrhea, gas, constipation, jointpain
+Lactose intolerance
+stomachpain, diarrhea, gas, constipation, lossofconcentration
+Lactose intolerance
+stomachpain, diarrhea, gas, constipation, fatigue
+Lactose intolerance
+
+weightloss, appetiteloss, abdominalpain, nausea, weakness
+Liver tumor
+lossofweight, lossofappetite, abdominalpain, nausea, weakness
+Liver tumor
+weightloss, appetiteloss, abdominalswelling, whitestools, yellowcolourofskin
+Liver tumor
+
+chills, fever, vomiting, chestpain, headache
+Meningitis
+
+irregularperiods, vaginaldryness, hotflashes, sleepproblems, moodchanges
+Menopause
+
+shortnessofbreath, hoarseness, weightloss, fatigue
+Mesothelioma
+shortnessofbreath, hoarseness, lossofweight, fever
+Mesothelioma
+
+muscleache, clumsiness, weakness, slurredspeech, weightloss
+Motor Neurone Disease
+muscleache, clumsiness, weakness, slurredspeech, lossofweight
+Motor Neurone Disease
+
+paininface, muscleaches, painwhilechewing, paininsalivaryglands
+Mumps
+
+nasalcongestion, paininforehead, nosebleeds, blurryvision, lossofsmell
+Nasal Cancer
+nasalcongestion, paininforehead, nosebleeding, blurryvision, lossoftaste
+Nasal Cancer
+
+lumpinneck, blurryvision, earinfections, facepain, hearingloss
+Nasopharyngeal Cancer
+lumpinneck, blurryvision, nosebleeds, facepain, difficultyopeningmouth
+Nasopharyngeal Cancer
+lumpinneck, blurryvision, nosebleeding, facepain, difficultyopeningmouth
+Nasopharyngeal Cancer
+
+lumpsoftissueunderskin, darkcircles, backpain, fever, weightloss
+Neauroblastoma
+lumpsoftissueunderskin, darkcircles, fever, bonepain, lossofweight
+Neauroblastoma
+
+swollenlymphnodes, andominalpain, chestpain, fatigue
+Non Hodgkin Lymphoma
+swollenlymphnodes, andominalswelling, chestpain, fatigue
+Non Hodgkin Lymphoma
+swollenlymphnodes, andominalswelling, chestpain, nightsweat
+Non Hodgkin Lymphoma
+
+nausea, vomiting, stomachpain, diarrhea, 
+Norovirus
+nausea, vomiting, stomachcramps, diarrhea
+Norovirus
+
+difficultyswallowing, weightloss, chestpain, indigestion
+Oesophageal Cancer
+
+jointpain, jointstiffness, tenderness, lossofflexibility, swelling
+Osteoarthritis
+
+bonepain, masslump, swelling, paininarms, limping
+Osteosarcoma
+bonepain, masslump, swelling, armpain, limping
+Osteosarcoma
+
+bellypain, weightloss, nausea, liverenlargement, bloodclots
+Pancreatic Cancer
+bellypain, lossofweight, nausea, liverenlargement, bloodclots
+Pancreatic Cancer
+bellypain, weightloss, diabetes, liverenlargement, bloodclots
+Pancreatic Cancer
+
+changeinskincolor, darkurine, abdominalpain, chills
+Jaundice
+skincolorchange, darkurine, abdominalpain, chills
+Jaundice
